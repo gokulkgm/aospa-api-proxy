@@ -1,0 +1,12 @@
+{
+  "name": "aospa-api-proxy",
+  "version": "0.1.0",
+  "devDependencies": {
+    "wrangler": "3.0.1"
+  },
+  "private": true,
+  "scripts": {
+    "start": "wrangler dev",
+    "deploy": "wrangler deploy"
+  }
+}
